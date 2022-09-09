@@ -1,0 +1,34 @@
+body{
+        background-color: #FCF6FF;
+    overflow-x: hidden;
+}
+.navbar-brand{
+    color: #ffffff;
+}
+.navbar-nav{
+    color: #ffffff;
+}
+@font-face{
+    font-family: "FrenchScript";
+      src: url("./frscript")
+}
+.namelogo{
+  font-family: FrenchScript;   
+}
+.ab{
+   font-family: FrenchScript;     
+}
+
+@media (min-width: 576px) {
+.pmaab{
+            font-size: 40px;
+    }
+}
+#lo{
+      display: inline-block;
+    color: #fff;
+    margin-left: 8%;
+    margin-top: 18%;
+    font-weight: bold;
+    font-size: 19px;
+}
